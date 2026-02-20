@@ -1,0 +1,79 @@
+IP,DATE,URL,title_tag_text,top_menu_items,all_paragraph_contents,all_urls,attribute_names,attribute_values
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,Welcome to Python.org,Python,Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets.,https://www.python.org/psf/,defer,
+123.123.123.123,26/Apr/2000,http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF,New Title,PSF,"The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3",https://docs.python.org,file-types,"bz2,chm,dmg,exe,gz,json,msi,msix,pdf,pkg,tgz,xz,zip"
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,Docs,"Lists (known as arrays in other languages) are one of the compound data types that Python understands. Lists can be indexed, sliced and manipulated with other built-in functions. More about lists in Python 3",https://pypi.org/,data-domain,python.org
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,PyPI,"Calculations are simple with Python, and expression syntax is straightforward: the operators +, -, * and / work as expected; parentheses () can be used for grouping. More about simple math functions in Python 3.",https://donate.python.org/,src,https://analytics.python.org/js/script.file-downloads.outbound-links.js
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,Jobs,"Python knows the usual control flow statements that other languages speak — if, for, while and range — with some of its own twists, of course. More control flow tools in Python 3",https://www.linkedin.com/company/python-software-foundation/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,Community,"Experienced programmers in any other language can pick up Python very quickly, and beginners find the clean syntax and indentation structure easy to learn. Whet your appetite with our Python 3 overview.",https://fosstodon.org/@ThePSF,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,Python is a programming language that lets you work quickly and integrate systems more effectively. Learn More,https://twitter.com/ThePSF,New Content,New Content
+123.123.123.123,26/Apr/2000,http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF,New Title,New Content,"Whether you're new to programming or an experienced developer, it's easy to learn and use Python.",http://brochure.getpython.info/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,Start with our Beginner’s Guide,https://docs.python.org/3/license.html,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,Python source code and installers are available for download for all versions!,https://wiki.python.org/moin/BeginnersGuide,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,Latest: Python 3.14.3,https://docs.python.org/3/faq/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,"Documentation for Python's standard library, along with tutorials and guides, are available online.",https://translations.python.org/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,docs.python.org,https://peps.python.org,New Content,New Content
+123.123.123.123,26/Apr/2000,http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF,New Title,New Content,Looking for work or have a Python related position that you're trying to hire for? Our relaunched community-run job board is the place to go.,https://wiki.python.org/moin/PythonBooks,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,jobs.python.org,https://wiki.python.org/moin/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,More,http://pyfound.blogspot.com/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,More,http://pycon.blogspot.com/,New Content,New Content
+123.123.123.123,26/Apr/2000,http://www.jafsoft.com/asctortf/,New Title,New Content,More,http://planetpython.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,"Using Python with Gretel.ai to Generate Synthetic Location Data by Alex Watson, co-founder and CPO, Gretel.ai",https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event,New Content,New Content
+final value,final value,final value,New Title,New Content,More,http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator,New Content,New Content
+final value,final value,final value,New Title,New Content,"The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more ",https://docs.python.org,New Content,New Content
+final value,final value,final value,New Title,New Content,"
+Become a Member
+Donate to the PSF
+",https://blog.python.org,New Content,New Content
+final value,final value,final value,New Title,New Content,"
+Copyright ©2001-2026.
+                             Python Software Foundation
+                             Legal Statements
+                             Privacy Notice
+
+",https://pyfound.blogspot.com/2026/02/python-is-for-everyone-inside-psfs-d.html,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://pythoninsider.blogspot.com/2026/02/python-3150-alpha-6.html,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://pyfound.blogspot.com/2026/02/introducing-psf-community-partner.html,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://pythoninsider.blogspot.com/2026/02/python-3143-and-31312-are-now-available.html,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://pyfound.blogspot.com/2026/01/your-python-your-voice-join-python.html,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://www.djangoproject.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://trypyramid.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://bottlepy.org,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://www.tornadoweb.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://flask.palletsprojects.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://litestar.dev/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://www.web2py.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.python.org/moin/TkInter,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.gnome.org/Projects/PyGObject,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://riverbankcomputing.com/software/pyqt/intro,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.qt.io/Qt_for_Python,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://kivy.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://www.wxpython.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://dearpygui.readthedocs.io/en/latest/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://scipy.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://pandas.pydata.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://ipython.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://buildbot.net/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://trac.edgewall.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://www.roundup-tracker.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://docs.ansible.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://saltproject.io/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://www.openstack.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://xon.sh/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,http://brochure.getpython.info/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://docs.python.org/3/license.html,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.python.org/moin/BeginnersGuide,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://docs.python.org/3/faq/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://translations.python.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://peps.python.org,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.python.org/moin/PythonBooks,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.python.org/moin/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,http://pyfound.blogspot.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,http://pycon.blogspot.com/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,http://planetpython.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://devguide.python.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://github.com/python/cpython/issues,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://mail.python.org/mailman/listinfo/python-dev,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://github.com/python/pythondotorg/issues,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://status.python.org/,New Content,New Content
+final value,final value,final value,New Title,New Content,New Content,https://policies.python.org/python.org/Privacy-Notice/,New Content,New Content

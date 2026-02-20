@@ -1,0 +1,14 @@
+INFO : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : This is my INFO message
+WARNING : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : This is my WARNING message
+ERROR : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : This is my ERROR message
+CRITICAL : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : This is my CRITICAL message
+DEBUG : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : This is my DEBUG message
+INFO : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : Accessing myrestapi1
+INFO : 2026-02-19 12:30:44,326 : 17_program_on_capturing_logs.py : Importing requests library
+INFO : 2026-02-19 12:30:44,381 : 17_program_on_capturing_logs.py : Requests library imported is SUCCESS
+INFO : 2026-02-19 12:30:44,383 : 17_program_on_capturing_logs.py : Accessing myrestapi1
+DEBUG : 2026-02-19 12:30:44,385 : connectionpool.py : Starting new HTTP connection (1): 127.0.0.1:5000
+ERROR : 2026-02-19 12:30:46,442 : 17_program_on_capturing_logs.py : Not Able To Access myrestapi1: Reason is: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /myrestapi1 (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=5000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+INFO : 2026-02-19 12:30:46,442 : 17_program_on_capturing_logs.py : Please make sure to run '15_program_on_rest_api_release_2.py' 
+    before running this program.
+INFO : 2026-02-19 12:30:46,442 : 17_program_on_capturing_logs.py : Manually existing the program using exit() function
