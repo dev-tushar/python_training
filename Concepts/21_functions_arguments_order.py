@@ -32,4 +32,5 @@ put all KEYWORD argument IF ANY
 then
 put all VARIABLE KEYWORD argument IF ANY
     
+Example--> func(a,*a,a=val,**a)
 """

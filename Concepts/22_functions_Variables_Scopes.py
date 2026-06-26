@@ -26,7 +26,7 @@ print("-"*20)
 def my_function_1():
     y = 100 # This variable can be accessed by CURRENT and NESTED function
     def my_function_2():
-        #nonlocal y # nonlocal will refer outer function variable
+        nonlocal y # nonlocal will refer outer function variable
         print("Value of outer function y is:", y)
     my_function_2()
 my_function_1()

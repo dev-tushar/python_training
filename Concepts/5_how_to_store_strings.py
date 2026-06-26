@@ -107,7 +107,7 @@ print("substring from index-1 to index-6 using positive index number:", my_strin
 print("substring from index-1 to index-6 using negative index number:", my_string[-7:-2])
 # Here, character at start index will be included in the substring
 # Here, character at end index will be EXCLUDED in the substring
-# So, if we want chatarcter at index-6 then we need to specify 7 as end index
+# So, if we want chatarcter at index 6 then we need to specify 7 as end index
 
 print("#"*40, end="\n\n")
 ############################

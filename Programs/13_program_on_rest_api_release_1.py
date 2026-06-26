@@ -170,7 +170,8 @@ my_rest_api_app = flask.Flask("MyAPIName")
 #     - providing access to get data from 'mytable'
 #     - END POINT: http://127.0.0.1:5000/myrestapi1
 # -------------
-# END POINT: http://127.0.0.1:5000/myrestapi1
+# END POINT: http://127.0.0.1:
+# 5000/myrestapi1
 # -------------
 @my_rest_api_app.route("/myrestapi1", methods=["GET"])
 def my_restapi1_function():

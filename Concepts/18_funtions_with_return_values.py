@@ -53,8 +53,10 @@ def employee():
     print("Company:", company)
     # step-1: inside function, use 'return-statement' to specify list of values to send outside the function
     return (name, company)
+#           OR
+#    return name, company
 
-
+# Python treats multiple return values as a single, immutable tuple, which is then automatically packed and can be unpacked by the calling code [2, 3].
 # step-2: while calling the function, assign function call to some variable so that returned value will be
 #           stored in that variable
 received_value = employee()

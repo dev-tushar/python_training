@@ -64,7 +64,7 @@ print("count_of_emp2:", count_of_emp2) # 2 (count returns number of occurrences)
 index_of_emp2 = my_tuple.index("emp-2") # returns 1st occurance index
 print("index_of_emp2:", index_of_emp2)
 
-index_of_second_emp2 = my_tuple.index("emp-2", 4) # Start looking from index 4, instead if index-0
+index_of_second_emp2 = my_tuple.index("emp-2", 4) # Start looking from index 4, instead of index-0
 print("index_of_second_emp2:", index_of_second_emp2)
 
 print("#"*40, end="\n\n")

@@ -59,6 +59,7 @@ print(my_list)
 # Internally it will create object of builtin class 'list' and store multiple values inside that object
 
 count_of_emp2 = my_list.count("emp-2")
+
 print("count_of_emp2:", count_of_emp2) # 4
 
 index_of_emp2 = my_list.index("emp-2") # returns 1st occurance index

@@ -8,7 +8,7 @@ print("-"*20)
 # ---------------
 
 # *a : is called VARIABLE POSITIONAL ARGUMENTS
-def add(*a):
+def add(*a):  #0 or more positional arguments can be given like shown below
     print("Received all values in tuple 'a':", a)
     total = sum(a)
     return total
